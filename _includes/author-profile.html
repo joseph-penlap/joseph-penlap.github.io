@@ -42,6 +42,13 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
+
+      {% if author.employer %}
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.employer }}</span>
+        </li>
+      {% endif %}
+
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
@@ -129,14 +136,6 @@
         </li>
       {% endif %}
 
-      {% if author.bitbucket %}
-        <li>
-          <a href="https://bitbucket.org/{{ author.bitbucket }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket
-          </a>
-        </li>
-      {% endif %}
-
       {% if author.github %}
         <li>
           <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
@@ -145,10 +144,26 @@
         </li>
       {% endif %}
 
+      {% if author.bitbucket %}
+        <li>
+          <a href="https://bitbucket.org/{{ author.bitbucket }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.gitlab %}
         <li>
           <a href="https://gitlab.com/{{ author.gitlab }}" itemprop="sameAs">
             <i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> GitLab
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.googlescholar %}
+        <li>
+          <a href="{{ author.gitlab }}" itemprop="sameAs">
+            <i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar
           </a>
         </li>
       {% endif %}
