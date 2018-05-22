@@ -30,7 +30,3 @@ This past year, I was funded through the [University of Arizona/Nasa Space Grant
 After purchasing collections of cards, usually thousands at a time, they need to be sorted and graded before I can enter anything into inventory. <br clear="left">
 
 Beyond work and the store, I love both playing and running Dungeons & Dragons games. I run one weekly fifth edition game using an online virtual table top with my friends from college and play in one weekly game with other graduate students in my year.
-
-## To do
-1. Google scholar icon on sidebar
-3. TCE stuff to teaching sections
