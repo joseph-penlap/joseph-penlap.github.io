@@ -8,4 +8,4 @@ classes: wide
 
 If you would like to get into contact, just shoot me an email! 
 
-My address is found in the left sidebar!
+My email address can be found in the left sidebar!
