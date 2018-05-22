@@ -2,7 +2,7 @@
 title: "Visual Classifier"
 collection: code
 permalink: /code/visual_classifier
-excerpt: "A python script to visually classify a set of images."
+excerpt: "A python script to visually classify a set of images in user defined categories."
 date: 2018-05-15
 repo: "https://github.com/matthewkirby/VisualGalaxyClassification"
 ---

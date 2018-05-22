@@ -34,5 +34,3 @@ Beyond work and the store, I love both playing and running Dungeons & Dragons ga
 ## To do
 1. Google scholar icon on sidebar
 3. TCE stuff to teaching sections
-4. Visual Classifier page needs work, definitely excerpt at least
-7. Add a contact section
