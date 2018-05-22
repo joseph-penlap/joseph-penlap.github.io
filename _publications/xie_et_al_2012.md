@@ -5,6 +5,7 @@ permalink: /publication/xie-et-al-2012
 excerpt: "We measured the impact that a small minority of committed individuals in a densely populated social network would have on the group's overall opinion. We performed our analysis on two types of stylized social network and found that there are regions of phase space where multiple opinions are stable and regions where a minority opinion will dominate."
 date: 2012-03-20
 venue: 'PLoS ONE'
+classes: wide
 ---
 ## Summary
 We measured the impact that a small minority of committed individuals in a densely populated social network would have on the group's overall opinion. We performed our analysis on two types of stylized social network and found that there are regions of phase space where multiple opinions are stable and regions where a minority opinion will dominate.

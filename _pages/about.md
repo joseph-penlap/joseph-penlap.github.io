@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 classes: wide
-mathjax: true
 ---
 
 <img src="../images/cluster_banner.png"><br clear="left">
@@ -33,9 +32,13 @@ After purchasing collections of cards, usually thousands at a time, they need to
 Beyond work and the store, I love both playing and running Dungeons & Dragons games. I run one weekly fifth edition game using an online virtual table top with my friends from college and play in one weekly game with other graduate students in my year.
 
 ## To do
-1. Want employer and google scholar on sidebar
+1. Google scholar icon on sidebar
 2. Get top links working
 3. TCE stuff to teaching sections
+4. Links on specific publication pages still underlined
+
+Part 2
+
 4. Visual Classifier page needs work, definitely excerpt at least
 6. Can I get the dates off of the code sections?
 7. Add a contact section

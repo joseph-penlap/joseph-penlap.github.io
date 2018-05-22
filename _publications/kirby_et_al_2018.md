@@ -5,9 +5,8 @@ permalink: /publication/kirby-et-al-2018a
 excerpt: "We measured the scatter in the richness-mass relation for the 30 richest clusters in the redMaPPer catalog for the Sloan Digital Sky Survey (SDSS) using gas mass measurements from Chandra X-ray Observatory. We tested for the consistency of the mass calibration of the SDSS redMaPPer and Weighing the Giants mass cluster samples. Finally, we report the first direct estimate of the intrinsic scatter in the richness-mass relation in a complete sample of redMaPPer clusters."
 date: 2018-05-02
 venue: 'In Prep'
+publ: "false"
 ---
-# In Prep
-This page will be updated upon publication
 
 ### Summary
 We measured the scatter in the richness-mass relation for the 30 richest clusters in the redMaPPer catalog for the Sloan Digital Sky Survey (SDSS) using gas mass measurements from Chandra X-ray Observatory. We tested for the consistency of the mass calibration of the SDSS redMaPPer and Weighing the Giants mass cluster samples. Finally, we report the first direct estimate of the intrinsic scatter in the richness-mass relation in a complete sample of redMaPPer clusters.
