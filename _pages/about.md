@@ -33,13 +33,6 @@ Beyond work and the store, I love both playing and running Dungeons & Dragons ga
 
 ## To do
 1. Google scholar icon on sidebar
-2. Get top links working
 3. TCE stuff to teaching sections
-4. Links on specific publication pages still underlined
-
-Part 2
-
 4. Visual Classifier page needs work, definitely excerpt at least
-6. Can I get the dates off of the code sections?
 7. Add a contact section
-8. Order talks by importance
