@@ -25,7 +25,9 @@ On the side, I am working with [Dennis Zaritsky](http://djuma.as.arizona.edu/~de
 This past year, I was funded through the [University of Arizona/Nasa Space Grant](https://spacegrant.arizona.edu/students/fellowships). The Space Grant is a graduate fellowship that funds four graduate students each year in space science related fields to perform outreach in the local community. For my outreach project, I proposed a revision of the content in the Space Gallery at the [Pima Air and Space Museum](http://www.pimaair.org/), the largest privately owned air and space museum in the US. Over the last year, I have put together content on unmanned NASA missions and the planets of our Solar System to be put on display in the gallery, replacing about $1/3$ of the existing content in the gallery.
 
 ## Personal
-<img src="../images/astro_tcg.jpg" width="200px" align="left" hspace="30"> In my spare time, I run an online storefront selling Magic: The Gathering trading cards called [Astro TCG](https://shop.tcgplayer.com/sellerfeedback/346ad38b). It has taken over all of the free space in my apartment! 
+<img src="../images/astro_tcg.jpg" width="200px" align="left" hspace="30"> 
+
+In my spare time, I run an online storefront selling Magic: The Gathering trading cards called [Astro TCG](https://shop.tcgplayer.com/sellerfeedback/346ad38b). It has taken over all of the free space in my apartment! 
 
 After purchasing collections of cards, usually thousands at a time, they need to be sorted and graded before I can enter anything into inventory. <br clear="left">
 
