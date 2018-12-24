@@ -22,6 +22,9 @@ Ph.D. in Physics<br>
 University of Arizona, Tucson, AZ<br>
 *Advisor: Prof. Eduardo Rozo*
 
+Certificate in College Teaching<br>
+University of Arizona, Tucson, AZ<br>
+
 **2009-2013**<br>
 B.S. in Physics<br>
 Rensselaer Polytechnic Institute<br>
@@ -65,9 +68,9 @@ Physics Graduate Student Council<br>
 
 **Kirby, M.** et al. "The evolution of galaxies in cluster infall regions at intermediate redshifts", In Prep.
 
-Almoubayyed, Husni et al. "Core Cosmology Library: Precision cosmological predictions for LSST", in Prep.
+Just, D., **Kirby, M.**, et al. "Preprocessing among the infalling galaxy population of EDISCS clusters.", in Review.
 
-Just, D., **Kirby, M.**, et al. "Preprocessing among the infalling galaxy population of EDISCS clusters.", in Prep.
+Chisari, N. E., Alonso, D., Krause, E., et al. 2018, [arXiv:1812.05995](https://arxiv.org/abs/1812.05995)
 
 Xie, J., Emenheiser, J., **Kirby, M.**, et al. "Evolution of opinions on social networks in the presence of competing committed groups", 2012 (PLoS ONE 2012).
 
@@ -85,6 +88,8 @@ Outstanding Graduate Student Speaking Award (What is an Ultra Diffuse Galaxy and
 
 ## Talks and Presentations
 ---
+"Improved Cosmological Constraints from X-ray Follow-Up of a Complete Sample of redMaPPer Clusters", Dark Energy Survey Campinas Collaboration Meeting, Campinas, Brazil (remote), *December 2018*
+
 "Measuring Redshifts to Distant Objects in the Universe", University of Arizona Graduate Student Seminar, Tucson, AZ, *March 2018*
 
 "The Scatter in Cluster Scaling Relations with a Complete Cluster Sample", SnowCluster 2018, Salt Lake City, UT, *March 2018*

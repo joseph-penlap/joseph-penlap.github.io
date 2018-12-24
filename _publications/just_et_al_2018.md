@@ -3,7 +3,7 @@ title: "Preprocessing Among the Infalling Galaxy Population of EDisCS Clusters"
 collection: publications
 permalink: /publications/just-et-al-2018
 excerpt: "We measured redshifts using a combination of photometry and low-dispersion spectra for 21 galaxies in the EDisCS cluster sample. These redshifts have uncertainties that are an order of magnitude better than pure photometric redshifts but about an order of magnitude worse than pure spectroscopic redshifts. Using these redshifts, we are able to associate the imaged galaxies with a cluster or with the field. Finally, we use a basic model for the infall regions of these clusters to measure the amount of processing that the infalling galaxies have had with respect to the cluster mass."
-date: 2018-05-01
+date: 2018-12-22
 venue: 'Under Review'
 publ: "false"
 ---
