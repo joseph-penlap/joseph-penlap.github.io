@@ -13,7 +13,7 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="../files/cv-10-31-19.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+<a href="../files/cv-11-1-19.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
 ## Education
 **In Progress**<br>
@@ -31,25 +31,34 @@ Rensselaer Polytechnic Institute<br>
 
 ## Research experience
 
-**Improving DES Cluster Cosmology via SPT Cluster Observations (2019)**<br>
+**Improving DES Cluster Cosmology via SPT Cluster Observations (2019-Present)**<br>
 *Advisor: Eduardo Rozo*<br>
 Using the overlapping area of the Dark Energy Survey and South Pole Telescope, I built a complete sample of DES clusters with SPT detections. I then used the sample to constrain the variance in the richness-mass relation and tighten cosmological constraints.
+
+**CLMM Development (2018-Present)**<br>
+*LSST DESC*<br>
+Co-Leading development of a software package to measure halo mass and bias using weak lensing data from simulations and observations.<br>
+*Relevant Publications: Avestruz et al. In Prep*
+
+**Core Cosmology Library Development (2017-2018)**<br>
+*LSST DESC*<br>
+Standardized physical constants between all of the dependencies of the Core Cosmology Library (CCL). CCL is a software package designed to compute basic cosmological observables to a high degree of accuracy.<br>
+*Relevant Publications: <a href="../publications/chisari-et-al-2019" class="uline">Chisari et al. 2019</a>*
 
 **Preprocessing among the Infalling Galaxy Population of EDisCS Clusters (2016-2018)**<br>
 *Advisor: Dennis Zaritsky*<br>
 Computed redshifts for galaxies in the EDisCS clusters using data taken on a low dispersion spectrograph and then analyzed the colors and clustering properties of confirmed member galaxies.<br>
-*Relevant Publications: <a href="../publications/just-et-al-2018" class="uline">Just et al. 2019</a>*
+*Relevant Publications: <a href="../publications/just-et-al-2019" class="uline">Just et al. 2019</a>*
 
 **Improving SDSS Cluster Cosmology via a Modest X-ray Follow-Up Program (2016-2019)**<br>
 *Advisor: Eduardo Rozo*<br>
 Obtained X-ray mass proxies for the 30 richest galaxy clusters in the Sloan Digital Sky Survey and developed a statistical model that I used to tighten cluster cosmology constraints.<br>
 *Relevant Publications: <a href="../publications/kirby-et-al-2019a" class="uline">Kirby et al. 2019</a>*<br>
 
-
 **The Morphological Content of the Infall Regions of EDisCS Clusters (2014-2016)**<br>
 *Advisor: Dennis Zaritsky*<br>
 Identified cluster member galaxies, led a small group that visually classified the morphology of each cluster member, and analyzed the distribution of morphologies.<br>
-*Relevant Publications: <a href="../publications/kirby-et-al-2018b" class="uline">Kirby et al. 2019b</a>*
+*Relevant Publications: Kirby et al. In Prep*
 
 **Measuring Photometric Redshift Bias Due to Unmodeled Dust Reddening (2013-2014)**<br>
 *Advisor: Elliot Cheu*<br>

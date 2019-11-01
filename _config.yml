@@ -102,10 +102,10 @@ analytics:
 author:
   name             : "Matthew Kirby"
   avatar           : "images/mattkirby.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student in physics at the University of Arizona working in astronomy."
+  bio              : "PhD student at the University of Arizona"
   location         : "Tucson, AZ"
   employer         : "University of Arizona"
-  email            : "matthewkirby@email.arizona.edu"
+  email            : "matthew.ryan.kirby@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : "mattkirby"
