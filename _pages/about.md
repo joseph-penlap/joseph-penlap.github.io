@@ -9,7 +9,8 @@ redirect_from:
 classes: wide
 ---
 I am a PhD student in engineering science interesting on agroecology engineering for plant health protection, biology mathematical modeling, biological control and crop protection. I am conducting my research at Inria Sophia Antipolis working under the supervision of [Frédéric Grognard](http://www-sop.inria.fr/members/Frederic.Grognard), [Valentina Baldazzi](https://www.researchgate.net/profile/Valentina-Baldazzi) and [Suzanne Touzeau](https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2/Team-members/TOUZEAU-Suzanne). My thesis is a joint project of two research centers namely Inria (National Institute for Research in Computer Science and Control) and INRAE (French National Institute for Agriculture, Food, and Environment ) where mathematics and biology are both applied.
-<img src="../images/background.jpg" width="950px" height="170" vspace="15"><br clear="left">
+
+<img src="../images/background.jpg" width="950px" height="150" vspace="21"><br clear="left">
 My thesis aims to gain a better understanding of differential plant susceptibility by studying the interplay between plants and pest and considering plant physiology and defense response. I exploit methods from dynamic system modelling to build a mechanistic model of plant-RKN (Root-Knot Nematodes) interactions that explicitly links plant physiology and pest demography, including both the effect of these pests on the crops and the effect of the plants on the pests.
 
 Furthermore, I am also interested in (but don’t get to spend enough time on): biological control, biocontrol, theoretical ecology, artificial ecosystems, machine learning applications in agroecology.
