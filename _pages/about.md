@@ -20,7 +20,7 @@ Furthermore, I am also interested in (but don’t get to spend enough time on): 
 
 ## Professional
 
-At the same time, I was hiring as doctoral researcher by the center mentioned above to conduct this research by interacting with many researchers and colleagues and also participating in complementary experiments and data collection. For instance, Plant-Nematodes Interaction (IPN) team from INRAE which provides the necessary expertise, technical support as well as experimental facilities. Beside it, teaching assistant is a part of my duty.
+At the same time, I was hiring as doctoral researcher by the center mentioned above to conduct this research by interacting with many researchers and colleagues and also participating in complementary experiments and data collection. For instance, Plant-Nematodes Interaction (IPN) team from INRAE which provides the necessary expertise, technical support as well as experimental facilities. Beside it, teaching assistant is a part of my duty. In addition to my research, I devote part of my time to teaching certain modules in mathematics and computer science; more specifically mathematical analysis, data science.
 
 ## Personal
 <img src="../images/astro_tcg.jpg" width="200px" align="left" hspace="30"> 
