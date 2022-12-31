@@ -16,18 +16,25 @@ a.uline {text-decoration:underline;}
 <a href="../files/cv-11-1-19.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
 ## Education
-**In Progress**<br>
-Ph.D. in Physics<br>
-University of Arizona, Tucson, AZ<br>
-*Advisor: Prof. Eduardo Rozo*
+**Oct 2022-In Progress**<br>
+Ph.D. in Automatic, Signal and Image Processing<br>
+University of Côte d'Azur, Nice, France<br>
+*Advisors: Prof. Frédéric Grognard*
 
-Certificate in College Teaching<br>
-University of Arizona, Tucson, AZ<br>
+**Sep 2021-Jun 2022**<br>
+MSc. in Data Science<br>
+African Institute for Mathematical Sciences, Limbe, Cameroon<br>
+*Advisor: Prof. Nathalie Verdière*
 
-**2009-2013**<br>
-B.S. in Physics<br>
-Rensselaer Polytechnic Institute<br>
-*Advisor: Prof. Gyorgy Korniss*
+**Oct 2019-Jul 2022**<br>
+MSc. in Mathematics<br>
+University of Dschang, Dschang, Cameroon<br>
+*Advisor: Prof. Jean Louis Woukeng*
+
+**Oct 2016-Jul 2019**<br>
+BSc. in Mathematics and Computer Science<br>
+University of Dschang, Dschang, Cameroon<br>
+*Advisor: Prof. Jean Louis Woukeng*
 
 ## Research experience
 
