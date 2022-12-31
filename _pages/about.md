@@ -9,7 +9,7 @@ redirect_from:
 classes: wide
 ---
 
-<img src="../images/background.jpg" width="1000px" height="250" hspace="8"><br clear="left">
+<img src="../images/background.jpg" width="950px" height="250" hspace="8"><br clear="left">
 I am a PhD student in engineering science interesting on agroecology engineering for plant health protection, biology mathematical modeling, biological control and crop protection. I am conducting my research at Inria Sophia Antipolis working with [Frédéric Grognard](http://www-sop.inria.fr/members/Frederic.Grognard), [Valentina Baldazzi](https://www.researchgate.net/profile/Valentina-Baldazzi) and [Suzanne Touzeau](https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2/Team-members/TOUZEAU-Suzanne). My thesis is a joint project of two research centers namely Inria (National Institute for Research in Computer Science and Control) and INRAE (French National Institute for Agriculture, Food, and Environment ) where mathematics and biology are both applied.
 
 
