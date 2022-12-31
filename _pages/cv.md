@@ -19,14 +19,14 @@ a.uline {text-decoration:underline;}
 **Oct 2022-In Progress**<br>
 Ph.D. in Automatic, Signal and Image Processing<br>
 University of Côte d'Azur, Nice, France<br>
-*Advisors: Prof. Frédéric Grognard*
+*Advisor: Prof. Frédéric Grognard et al.*
 
 **Sep 2021-Jun 2022**<br>
 MSc. in Data Science<br>
 African Institute for Mathematical Sciences, Limbe, Cameroon<br>
 *Advisor: Prof. Nathalie Verdière*
 
-**Oct 2019-Jul 2022**<br>
+**Oct 2019-Jul 2021**<br>
 MSc. in Mathematics<br>
 University of Dschang, Dschang, Cameroon<br>
 *Advisor: Prof. Jean Louis Woukeng*
@@ -38,19 +38,19 @@ University of Dschang, Dschang, Cameroon<br>
 
 ## Research experience
 
-**Improving DES Cluster Cosmology via SPT Cluster Observations (2019-Present)**<br>
-*Advisor: Eduardo Rozo*<br>
+**Ecophysiologicak modeling of plant nematode interactions to understand plant tolerance (2022-Present)**<br>
+*Advisors: Frédéric Grognard, Valentina Baldazzi, Suzanne Touzeau*<br>
 Using the overlapping area of the Dark Energy Survey and South Pole Telescope, I built a complete sample of DES clusters with SPT detections. I then used the sample to constrain the variance in the richness-mass relation and tighten cosmological constraints.
 
-**CLMM Development (2018-Present)**<br>
-*LSST DESC*<br>
+**Mathematical modeling of a forest environment: role of water cycle (2022)**<br>
+*Advisor: Nathalie Verdière*<br>
 Co-Leading development of a software package to measure halo mass and bias using weak lensing data from simulations and observations.<br>
-*Relevant Publications: Avestruz et al. In Prep*
+*Manuscrit: Penlap et al. 2022*
 
-**Core Cosmology Library Development (2017-2018)**<br>
-*LSST DESC*<br>
+**Locally uniformly bounded function spaces (2020-2021)**<br>
+*Advisor: Jean Louis Woukeng*<br>
 Standardized physical constants between all of the dependencies of the Core Cosmology Library (CCL). CCL is a software package designed to compute basic cosmological observables to a high degree of accuracy.<br>
-*Relevant Publications: <a href="../publications/chisari-et-al-2019" class="uline">Chisari et al. 2019</a>*
+*Manuscrit: <a href="../publications/chisari-et-al-2019" class="uline">Penlap et al. 2021</a>*
 
 **Preprocessing among the Infalling Galaxy Population of EDisCS Clusters (2016-2018)**<br>
 *Advisor: Dennis Zaritsky*<br>
