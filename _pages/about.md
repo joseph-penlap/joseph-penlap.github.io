@@ -9,7 +9,7 @@ redirect_from:
 classes: wide
 ---
 
-<img src="../images/background.jpg" width="950px" height="200" vspace="58"><br clear="left">
+<img src="../images/background.jpg" width="950px" height="200" vspace="18"><br clear="left">
 I am a PhD student in engineering science interesting on agroecology engineering for plant health protection, biology mathematical modeling, biological control and crop protection. I am conducting my research at Inria Sophia Antipolis working with [Frédéric Grognard](http://www-sop.inria.fr/members/Frederic.Grognard), [Valentina Baldazzi](https://www.researchgate.net/profile/Valentina-Baldazzi) and [Suzanne Touzeau](https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2/Team-members/TOUZEAU-Suzanne). My thesis is a joint project of two research centers namely Inria (National Institute for Research in Computer Science and Control) and INRAE (French National Institute for Agriculture, Food, and Environment ) where mathematics and biology are both applied.
 
 
@@ -22,7 +22,7 @@ Furthermore, I am also interested in (but don’t get to spend enough time on): 
 At the same time, I was hiring as doctoral researcher by the center mentioned above to conduct this research by interacting with many researchers and colleagues and also participating in complementary experiments and data collection. For instance, Plant-Nematodes Interaction (IPN) team from INRAE which provides the necessary expertise, technical support as well as experimental facilities. Beside it, teaching assistant is a part of my duty. In addition to my research, I devote part of my time to teaching certain modules in mathematics and computer science; more specifically mathematical analysis, data science.
 
 ## Personal
-<img src="../images/astro_tcg.jpg" width="220px" height="105" align="left" hspace="30"> 
+<img src="../images/astro_tcg.jpg" width="220px" height="85" align="left" hspace="30"> 
 
 In my free time, I design websites with the help of some friends relatively and in response to a targeted need in society. Furthermore, I usually share offers and study opportunities that I find locally or on the internet in forums. 
 
