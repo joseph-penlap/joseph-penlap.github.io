@@ -323,9 +323,9 @@ defaults:
   # _code
   - scope:
       path: ""
-      type: code
+      type: certifications
     values:
-      layout: single-code
+      layout: single-certifications
       author_profile: true
 
 
