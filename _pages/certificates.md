@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Certificates"
-permalink: /code/
+permalink: /certificates/
 author_profile: true
 classes: wide
 ---
