@@ -45,7 +45,7 @@ Using the overlapping area of the Dark Energy Survey and South Pole Telescope, I
 **Mathematical modeling of a forest environment: role of water cycle (2022)**<br>
 *Advisor: Nathalie Verdière*<br>
 Co-Leading development of a software package to measure halo mass and bias using weak lensing data from simulations and observations.<br>
-*Manuscrit: Penlap et al. 2022*
+*Manuscrit: <a href="../publications/chisari-et-al-2019" class="uline">Penlap et al. 2022</a>*
 
 **Locally uniformly bounded function spaces (2020-2021)**<br>
 *Advisor: Jean Louis Woukeng*<br>
