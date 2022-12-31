@@ -24,8 +24,6 @@ At the same time, I was hiring as doctoral researcher by the center mentioned ab
 ## Personal
 <img src="../images/astro_tcg.jpg" width="200px" align="left" hspace="30"> 
 
-In my spare time, I run an online storefront selling Magic: The Gathering trading cards called [Astro TCG](https://shop.tcgplayer.com/sellerfeedback/346ad38b). It has taken over all of the free space in my apartment! 
+In my free time, I design websites with the help of some friends relatively and in response to a targeted need in society. Furthermore, I usually share offers and study opportunities that I find locally or on the internet in forums. 
 
-After purchasing collections of cards, usually thousands at a time, they need to be sorted and graded before I can enter anything into inventory. <br clear="left">
-
-Beyond work and the store, I love both playing and running Dungeons & Dragons games. I run one weekly fifth edition game using an online virtual table top with my friends from college and play in one weekly game with other graduate students in my year.
+Beyond work, I like to play football, watch matches and whenever possible go hiking. I participate in a weekly game with other students and office colleagues.
