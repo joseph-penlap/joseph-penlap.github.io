@@ -1,5 +1,5 @@
 ---
-title: "Modeling the Dynamics of a Forest Environment: Role of the Water Cycle"
+title: "OMS Trainings"
 collection: code
 type: "online courses"
 venue: "World Health Organization (WHO)"
