@@ -121,8 +121,8 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "joseph-penlap"
-  googlescholar    : "https://scholar.google.com/citations?user=UtjjWXgAAAAJ"
-  researchgate     : "https://www.researchgate.net/profile/Joseph-Penlap-Tamagoua"
+  googlescholar    : "https://www.researchgate.net/profile/Joseph-Penlap-Tamagoua" #"https://scholar.google.com/citations?user=UtjjWXgAAAAJ"
+  researchgate     : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
