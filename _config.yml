@@ -108,7 +108,7 @@ author:
   email            : "josephpenlap2000@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        : "joseph-penlap"
+  bitbucket        : #"joseph-penlap"
   codepen          :
   dribbble         :
   flickr           :
@@ -121,7 +121,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "joseph-penlap"
-  googlescholar    : "https://www.researchgate.net/profile/Joseph-Penlap-Tamagoua" #"https://scholar.google.com/citations?user=UtjjWXgAAAAJ"
+  googlescholar    : #"https://www.researchgate.net/profile/Joseph-Penlap-Tamagoua" #"https://scholar.google.com/citations?user=UtjjWXgAAAAJ"
   researchgate     : "Joseph-Penlap-Tamagoua"
   pinterest        :
   soundcloud       :
