@@ -38,19 +38,20 @@ University of Dschang, Dschang, Cameroon<br>
 
 ## Research experience
 
-**Ecophysiologicak modeling of plant nematode interactions to understand plant tolerance (2022-Present)**<br>
+**Ecophysiological modeling of plant nematode interactions to understand plant tolerance (2022-ongoing)**<br>
 *Advisors: Frédéric Grognard, Valentina Baldazzi, Suzanne Touzeau*<br>
-Using the overlapping area of the Dark Energy Survey and South Pole Telescope, I built a complete sample of DES clusters with SPT detections. I then used the sample to constrain the variance in the richness-mass relation and tighten cosmological constraints.
+A mechanistic model is built to study the complex interplay among plant physiological and architectural traits, abiotic conditions and nematode biology that affects the infection dynamics.
 
 **Mathematical modeling of a forest environment: role of water cycle (2022)**<br>
 *Advisor: Nathalie Verdière*<br>
-Co-Leading development of a software package to measure halo mass and bias using weak lensing data from simulations and observations.<br>
-*Manuscrit: <a href="../publications/chisari-et-al-2019" class="uline">Penlap et al. 2022</a>*
+We described the dynamics of forest ecosystems based on a reaction-diffusion-advection mathematical system.<br>
+*Manuscript: <a href="../files/aims_master_thesis_2022.pdf" class="uline">Penlap et al. 2022</a>*
 
-**Locally uniformly bounded function spaces (2020-2021)**<br>
-*Advisor: Jean Louis Woukeng*<br>
-Standardized physical constants between all of the dependencies of the Core Cosmology Library (CCL). CCL is a software package designed to compute basic cosmological observables to a high degree of accuracy.<br>
-*Manuscrit: <a href="../publications/chisari-et-al-2019" class="uline">Penlap et al. 2021</a>*
+**Corrector problem in the space of locally uniformly bounded functions (2021-2022)**<br>
+*Advisor: Kakeu Pokam Landri*<br>
+A detailed proof to the existence of the corrector problem is provided for a PDE in deterministic homogenization theory
+beyond the periodic setting.<br>
+*Manuscript: <a href="../files/corrector_problem_uds_2021.pdf" class="uline">Penlap et al. 2021</a>*
 
 **Preprocessing among the Infalling Galaxy Population of EDisCS Clusters (2016-2018)**<br>
 *Advisor: Dennis Zaritsky*<br>
