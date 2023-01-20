@@ -1,5 +1,5 @@
 ---
-title: "Ecophysiological modeling of plant-nematode interactions to understand plant tolerance"
+title: "Ecophysiological modelling of plant-nematode interactions to understand plant tolerance"
 collection: talks
 type: "Poster"
 venue: "14th DSABNS Conference"
