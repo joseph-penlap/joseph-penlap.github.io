@@ -12,7 +12,7 @@ I am a PhD student in Applied Mathematics interesting on agroecology engineering
 <img src="../images/background.jpg" width="950px" height="150" vspace="21"><br clear="left">
 My thesis aims to gain a better understanding of **differential plant susceptibility** by studying the complex interplay between **plants** and **population pest dynamics** while considering plant physiology and defense response. I exploit methods from dynamic system modelling to build a **mechanistic mathematical model** of plant-RKN (Root-Knot Nematodes) interactions that explicitly links plant physiology and pest demography, including both the effect of these pests on the crops and the effect of the plants on the pests.
 
-Furthermore, I am also interested in (but don’t get to spend enough time on): biological control, biocontrol, theoretical ecology, artificial ecosystems, machine learning applications in agroecology.
+Furthermore, I am also interested in (but don’t get to spend yet enough time on): biological control, biocontrol, theoretical ecology, artificial ecosystems, machine learning applications in agroecology.
 
 ## Professional
 
