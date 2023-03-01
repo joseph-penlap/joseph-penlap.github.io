@@ -45,29 +45,19 @@ A mechanistic model is built to study the complex interplay among plant physiolo
 **Mathematical modeling of a forest environment: role of water cycle (2022)**<br>
 *Advisor: Nathalie Verdière*<br>
 We described the dynamics of forest ecosystems based on a reaction-diffusion-advection mathematical system.<br>
-*Manuscript: <a href="../files/aims_master_thesis_2022.pdf" class="uline">Penlap et al. 2022</a>*
-elevant Publications: Kirby et al. In Prep*
+*Manuscript: <a href="../files/aims_master_thesis_2022.pdf" class="uline">Penlap, J. & Verdière, N. 2022</a>
 
 ## Work experience
-**2023 - till**<br>*Teaching Assistant*<br> 
+**Jan 2023 - Apr 2023**<br>*Teaching Assistant*<br> 
 Providing tutorials in Mathematical Analysis to third level students (28 hours/year), Côte d’Azur University, valrose, France
 
-**2022 - 2025**<br>*Doctoral Researcher*<br>
+**Oct 2022 - Sep 2025**<br>*Doctoral Researcher*<br>
 Working on plant pathology within an INRAE-Inria research team: INRAE (ISA/M2P2) & Inria (Biocore), France
 
-**2019 - 2021**<br>*Research Assistant*<br>
+**Apr 2019 - Jul 2021**<br>*Research Assistant*<br>
 Providing support to  research teams of URMA (Mathematics Research Unit), University of Dschang, Cameroon
 
-**2020**<br>*Conference monitor*<br> at the department of Mathematics and computer science,University of Dschang, Cameroon
-
-
-## Service and Outreach
-**2017 - 2018**<br>
-Volunteered at the Pima Air and Space Museum to replace antiquated displays in the Space Gallery.<br>
-*Funded by the UA/NASA Space Grant*
-
-**2014 - 2019**<br>
-Physics Graduate Student Council<br>
+**May 2020**<br>*Conference monitor*<br> at the department of Mathematics and computer science,University of Dschang, Cameroon
 
 
 ## Awards and Fellowships
@@ -78,28 +68,13 @@ Physics Graduate Student Council<br>
 
 
 ## Contributed Conference Talks and Posters
-1. **14th conference on Dynamical Systems Applied to Biology and Natural Sciences (DSABNS)**, Feb 5-8, 2023, Bilbao, Spain
-<br>Echophysiological modelling of plant-nematode interactions to understand plant tolerance (*Poster*)
-2. **Biocore seminar on automatic control and dynamical systems theory to artificial ecosystems**, Oct 3-6, 2022, Porquerolles island in Hyères, France
-<br>Some results in Agro-forestry (*Talk*)
-4. **Mathematical Population Dynamics, Ecology and Evolution (MPDEE)**, April 24-28, 2023, Marseille, France
+1. **Mathematical Population Dynamics, Ecology and Evolution (MPDEE)**, April 24-28, 2023, Marseille, France
 <br>Modelling plant-nematode interactions to understand plant tolerance
+2. **14th conference on Dynamical Systems Applied to Biology and Natural Sciences (DSABNS)**, Feb 5-8, 2023, Bilbao, Spain
+<br>Echophysiological modelling of plant-nematode interactions to understand plant tolerance (*Poster*)
+3. **Biocore seminar on automatic control and dynamical systems theory to artificial ecosystems**, Oct 3-6, 2022, Porquerolles island in Hyères, France
+<br>Some results in Agro-forestry (*Talk*)
 
-## Other Notable Seminars
-1. **Measuring Redshifts to Distant Objects in the Universe**, March 2018
-<br>University of Arizona Graduate Student Seminar
-2. **The Search for Dark Matter**, September 2017 
-<br>University of Arizona Graduate Student Seminar <br> 
-*Outstanding Graduate Student Speaking Award Winning*
-3. **Weighing the Most Massive Objects in the Universe**, April 2017
-<br>University of Arizona Graduate Student Talks
-4. **What is an Ultra Diffuse Galaxy and Why do we Care?**, September 2016
-<br>University of Arizona Graduate Student Seminar<br>
-*Outstanding Graduate Student Speaking Award Winning*
-5. **Galactic Ghosts: What Can We Learn From Stellar Streams**, November 2015 
-<br>University of Arizona Graduate Student Seminar
-6. **The Evolution of Galaxies**, May 2015
-<br>University of Arizona Graduate Student Seminar
 
 ## Conferences, Workshops and summer schools
 1. International Graduate School on Control (Static and dynamic optimisation), April 17-21, 2023, TU Eindhoven, The Netherlands
