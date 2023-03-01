@@ -36,7 +36,7 @@ BSc. in Mathematics and Computer Science<br>
 University of Dschang, Dschang, Cameroon<br>
 *Advisor: Prof. Jean Louis Woukeng*
 
-## Research experience
+## Research experiences
 
 **Ecophysiological modeling of plant nematode interactions to understand plant tolerance (2022-ongoing)**<br>
 *Advisors: Frédéric Grognard, Valentina Baldazzi, Suzanne Touzeau*<br>
@@ -47,7 +47,7 @@ A mechanistic model is built to study the complex interplay among plant physiolo
 We described the dynamics of forest ecosystems based on a reaction-diffusion-advection mathematical system.<br>
 *Manuscript: <a href="../files/aims_master_thesis_2022.pdf" class="uline">Penlap, J. & Verdière, N. 2022</a>
 
-## Work experience
+## Work experiences
 **Jan 2023 - Apr 2023**<br>*Teaching Assistant*<br> 
 Providing tutorials in Mathematical Analysis to third level students (28 hours/year), Côte d’Azur University, valrose, France
 
@@ -58,13 +58,6 @@ Working on plant pathology within an INRAE-Inria research team: INRAE (ISA/M2P2)
 Providing support to  research teams of URMA (Mathematics Research Unit), University of Dschang, Cameroon
 
 **May 2020**<br>*Conference monitor*<br> at the department of Mathematics and computer science,University of Dschang, Cameroon
-
-
-## Awards and Fellowships
-1. INRAE-Inria PhD Grant Fellowship in France - 2022
-2. MasterCard Foundation Scholarship for studies at AIMS - 2021
-3. National winner prize OUC Africa - 2020
-4. President Paul Biya’s academic excellence award - 2018-19-20-21
 
 
 ## Contributed Conference Talks and Posters
@@ -81,4 +74,13 @@ Providing support to  research teams of URMA (Mathematics Research Unit), Univer
 2. BOOST Winter School - Biocontrol and Biostimulants, Dec 12-16, 2022, Institut Sophia Agrobiotech (ISA), France
 3. Workshop on machine learning, Sep 2021, Limbe, Cameroon
 4. Workshop on Modelling in population dynamics, Dec 8-9, 2022, Institut Sophia Agrobiotech (ISA), France
+
+
+## Awards and Fellowships
+1. INRAE-Inria PhD Grant Fellowship in France - 2022
+2. MasterCard Foundation Scholarship for studies at AIMS - 2021
+3. National winner prize OUC Africa - 2020
+4. President Paul Biya’s academic excellence award - 2018-19-20-21
+
+
 
