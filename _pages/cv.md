@@ -19,7 +19,7 @@ a.uline {text-decoration:underline;}
 **Oct 2022-In Progress**<br>
 Ph.D. in Automatic, Signal and Image Processing<br>
 University of Côte d'Azur, Nice, France<br>
-*Advisor: Prof. Frédéric Grognard et al.*
+*Advisor: Frédéric Grognard, Valentina Baldazzi and Suzanne Touzeau*
 
 **Sep 2021-Jun 2022**<br>
 MSc. in Data Science<br>
@@ -46,53 +46,19 @@ A mechanistic model is built to study the complex interplay among plant physiolo
 *Advisor: Nathalie Verdière*<br>
 We described the dynamics of forest ecosystems based on a reaction-diffusion-advection mathematical system.<br>
 *Manuscript: <a href="../files/aims_master_thesis_2022.pdf" class="uline">Penlap et al. 2022</a>*
+elevant Publications: Kirby et al. In Prep*
 
-**Corrector problem in the space of locally uniformly bounded functions (2021-2022)**<br>
-*Advisor: Kakeu Pokam Landri*<br>
-A detailed proof to the existence of the corrector problem is provided for a PDE in deterministic homogenization theory
-beyond the periodic setting.<br>
-*Manuscript: <a href="../files/corrector_problem_uds_sep_2022.pdf" class="uline">Penlap et al. 2021</a>*
+## Work experience
+**2023 - till**<br>*Teaching Assistant*<br> 
+Providing tutorials in Mathematical Analysis to third level students (28 hours/year), Côte d’Azur University, valrose, France
 
-**Preprocessing among the Infalling Galaxy Population of EDisCS Clusters (2016-2018)**<br>
-*Advisor: Dennis Zaritsky*<br>
-Computed redshifts for galaxies in the EDisCS clusters using data taken on a low dispersion spectrograph and then analyzed the colors and clustering properties of confirmed member galaxies.<br>
-*Relevant Publications: <a href="../publications/just-et-al-2019" class="uline">Just et al. 2019</a>*
+**2022 - 2025**<br>*Doctoral Researcher*<br>
+Working on plant pathology within an INRAE-Inria research team: INRAE (ISA/M2P2) & Inria (Biocore), France
 
-**Improving SDSS Cluster Cosmology via a Modest X-ray Follow-Up Program (2016-2019)**<br>
-*Advisor: Eduardo Rozo*<br>
-Obtained X-ray mass proxies for the 30 richest galaxy clusters in the Sloan Digital Sky Survey and developed a statistical model that I used to tighten cluster cosmology constraints.<br>
-*Relevant Publications: <a href="../publications/kirby-et-al-2019a" class="uline">Kirby et al. 2019</a>*<br>
+**2019 - 2021**<br>*Research Assistant*<br>
+Providing support to  research teams of URMA (Mathematics Research Unit), University of Dschang, Cameroon
 
-**The Morphological Content of the Infall Regions of EDisCS Clusters (2014-2016)**<br>
-*Advisor: Dennis Zaritsky*<br>
-Identified cluster member galaxies, led a small group that visually classified the morphology of each cluster member, and analyzed the distribution of morphologies.<br>
-*Relevant Publications: Kirby et al. In Prep*
-
-**Measuring Photometric Redshift Bias Due to Unmodeled Dust Reddening (2013-2014)**<br>
-*Advisor: Elliot Cheu*<br>
-Applied dust absorption models to galaxy spectra to measure the expected photometric redshift bias due to unmodeled galactic dust.
-
-**Evolving Opinions on Social Networks with Competing Committed Groups (2011-2013)**<br>
-*Advisor: Gyorgy Korniss*<br>
-Simulated and tracked the propagation of opinions on several types of connected social networks with static members using the naming game algorithm.<br>
-*Relevant Publications: <a href="../publications/xie-et-al-2012" class="uline">Xie et al. 2012</a>*
-
-## Teaching Experience
-**Primary Instructor**<br>
-*Algebra-Based Electricity and Magnetism, Summer 2014*<br>
-Developed course materials including short lectures, collaborative group work, homework, and exams with an emphasis on active learning for a 4.5 week algebra-based course on electricity and magnetism
-
-**Lecturer**<br>
-*Algebra-Based Mechanics, Fall 2014*<br>
-Led lectures including active learning components on algebra-based mechanics. My section was selected to take part in a pilot program to test an innovative collaborative learning space.
-
-**Graduate Teaching Assistant**<br>
-*Assorted Courses from 2013-2017*<br>
-Algebra-based mechanics for non-science and biology majors. <br>
-Algebra-based electricity and magnetism for non-science and biology majors. <br>
-Calculus-based mechanics for science majors and engineers. <br>
-Calculus-based electricity and magnetism for science majors and engineers. <br>
-Introduction to programming for physics applications.
+**2020**<br>*Conference monitor*<br> at the department of Mathematics and computer science,University of Dschang, Cameroon
 
 
 ## Service and Outreach
@@ -103,33 +69,21 @@ Volunteered at the Pima Air and Space Museum to replace antiquated displays in t
 **2014 - 2019**<br>
 Physics Graduate Student Council<br>
 
-## Publications
-1. Avestruz, C. et al. (with 22 others include **Kirby, M.**) "CLMM: A Galaxy Cluster Lensing Utility for Cosmology", In Prep.
-2. **Kirby, M.** et al. "The Morphological Content of the Infall Regions of EDisCS Clusters", In Prep.
-3. **Kirby, M.** et al. "Improved Cosmological Constraints from SDSS redMaPPer Clusters via X-ray Follow-up of a Complete Subsample of Systems", 2019 (arXiv:1910.13548)
-4. Just, D., **Kirby, M.**, et al. "Preprocessing among the infalling galaxy population of EDISCS clusters.", 2019 (ApJ, 885, 6)
-5. Chisari, N. E. et al. (with 31 others including **Kirby, M.**) "CCL: Core Cosmology Library", 2019 (ASCL, 1901.003)
-6. Chisari, N. E. et al. (with 29 others including **Kirby, M.**) "Core Cosmology Library: Precision cosmological predictions for LSST", 2019 (ApJS, 242, 2)
-7. Xie, J., Emenheiser, J., **Kirby, M.**, et al. "Evolution of opinions on social networks in the presence of competing committed groups", 2012 (PLoS ONE 2012).
-
 
 ## Awards and Fellowships
-1. Universities Research Association Fermilab Visiting Scholar - 2019
-2. UA Nasa Space Grant Fellowship - 2017-2018
-3. Outstanding Graduate Student Speaking Award - 2017
-4. Outstanding Graduate Student Speaking Award - 2016
-5. Selected to Participate in Collaborative Learning Space Pilot Program - 2014
+1. INRAE-Inria PhD Grant Fellowship in France - 2022
+2. MasterCard Foundation Scholarship for studies at AIMS - 2021
+3. National winner prize OUC Africa - 2020
+4. President Paul Biya’s academic excellence award - 2018-19-20-21
 
 
 ## Contributed Conference Talks and Posters
-1. **Improved Cosmological Constraints from SDSS redMaPPer Clusters via X-ray Follow-up of a Complete Subsample of Systems**, June 2019
-<br>Dark Energy Survey Collaboration Meeting
-2. **The Scatter in Cluster Scaling Relations with a Complete Cluster Sample**, March 2018
-<br>SnowCluster 2018 (*Poster*)
-3. **Scaling Relations with a Complete Cluster Sample**, February 2018
-<br>LSST Dark Energy Science Collaboration Meeting
-4. **What Can We Learn from Tidal Debris?**, December 2015
-<br>KASI-Arizona Collaboration Meeting
+1. **14th conference on Dynamical Systems Applied to Biology and Natural Sciences (DSABNS)**, Feb 5-8, 2023, Bilbao, Spain
+<br>Echophysiological modelling of plant-nematode interactions to understand plant tolerance (*Poster*)
+2. **Biocore seminar on automatic control and dynamical systems theory to artificial ecosystems**, Oct 3-6, 2022, Porquerolles island in Hyères, France
+<br>Some results in Agro-forestry (*Talk*)
+4. **Mathematical Population Dynamics, Ecology and Evolution (MPDEE)**, April 24-28, 2023, Marseille, France
+<br>Modelling plant-nematode interactions to understand plant tolerance
 
 ## Other Notable Seminars
 1. **Measuring Redshifts to Distant Objects in the Universe**, March 2018
@@ -147,25 +101,9 @@ Physics Graduate Student Council<br>
 6. **The Evolution of Galaxies**, May 2015
 <br>University of Arizona Graduate Student Seminar
 
-## Travel Grants
-1. LSST DESC Workshop Support Program, 2019
-2. Dark Energy Survey Early Career Scientist Travel Grant, 2019
-3. University of Arizona Department of Physics Fanfare Award, 2018
-4. University of Arizona Graduate and Professional Student Association Travel Grant, 2018
-5. LSST Dark Energy Science Collaboration Travel Grant, 2018
-6. LSST Dark Energy Science Collaboration Travel Grant, 2017
+## Conferences, Workshops and summer schools
+1. International Graduate School on Control (Static and dynamic optimisation), April 17-21, 2023, TU Eindhoven, The Netherlands
+2. BOOST Winter School - Biocontrol and Biostimulants, Dec 12-16, 2022, Institut Sophia Agrobiotech (ISA), France
+3. Workshop on machine learning, Sep 2021, Limbe, Cameroon
+4. Workshop on Modelling in population dynamics, Dec 8-9, 2022, Institut Sophia Agrobiotech (ISA), France
 
-## Conferences and Workshops
-1. DES Collaboration Meeting, Sussex, November 2019
-2.  CLMM Workshop, GCCL Bochum, July 2019
-3. LSST DESC Collaboration Meeting, APC Paris, July 2019
-4. DES Collaboration Meeting, Penn, June 2019
-5. LSST DESC Collaboration Meeting, Berkeley, February 2019
-6. CLMM Workshop, CMU, July 2018
-7. LSST DESC Collaboration Meeting, CMU, July 2018
-8. LSST DESC Collaboration Meeting, SLAC, February 2018
-9. SLAC Summer Institute: Cosmic Opportunities, SLAC, August 2017
-10. LSST DESC Collaboration Meeting, Stony Brook University, July 2017
-11. LSST DSFP, Local representative, University of Arizona, April 2017
-12. KASI-Arizona Collaboration Meeting, University of Arizona, December 2015
-13. Software Carpentry Workshop, University of Arizona, 2015
