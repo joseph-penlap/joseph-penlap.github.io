@@ -8,9 +8,8 @@ classes: wide
 ## Upcoming events
 1. **Research visit**, September, 2023, University of Florida, USA:<br>
 2. **International Graduate School on Control (IGSC)**, April 17-21, 2023, TU Eindhoven, The Netherlands:<br> 
-IGSC Program includes independent modules on different topics of networked and embedded control. A module entitled "Static and dynamic optimisation" of 21-hours a week will be taught to 2nd Year Master and PhD students from all over the world. 
+IGSC Program includes independent modules on different topics of networked and embedded control. A module entitled *Static and dynamic optimisation* of 21-hours a week will be taught to 2nd Year Master and PhD students from all over the world. 
    
-
 
 ## Attended events
 1. **MOMI 2023 in Smart Environment**, Apr 3-4, 2023, Inria Université Côte d’Azur research center, France:<br>
