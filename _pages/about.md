@@ -18,4 +18,4 @@ Furthermore, I am also interested in (but don’t get to spend yet enough time o
 
 At the same time, I am hired as doctoral researcher by the center mentioned above to conduct this research by interacting with many researchers and colleagues and also participating in complementary experiments and data collection. For instance, Plant-Nematodes Interaction (IPN) team from INRAE which provides the necessary expertise, technical support as well as experimental facilities. In addition to my research, I devote part of my time to teaching certain modules in mathematics and computer science; more specifically mathematical analysis, data science.
 
-<img src="../images/Inrae.png" width="150" hspace="70"> <img src="../images/Inria.png" width="150" hspace="80"> <img src="../images/UCA1.jpg" width="150" hspace="80"><br clear="left">
+<img src="../images/Inrae.png" width="150" hspace="75"> <img src="../images/Inria.png" width="150" hspace="80"> <img src="../images/UCA1.jpg" width="150" hspace="80"><br clear="left">
