@@ -18,8 +18,4 @@ Furthermore, I am also interested in (but don’t get to spend yet enough time o
 
 At the same time, I am hired as doctoral researcher by the center mentioned above to conduct this research by interacting with many researchers and colleagues and also participating in complementary experiments and data collection. For instance, Plant-Nematodes Interaction (IPN) team from INRAE which provides the necessary expertise, technical support as well as experimental facilities. In addition to my research, I devote part of my time to teaching certain modules in mathematics and computer science; more specifically mathematical analysis, data science.
 
-## Personal
-
-In my free time, I design websites with the help of some friends relatively and in response to a targeted need in society. Furthermore, I usually share offers and study opportunities that I find locally or on the internet in forums. 
-
-Beyond work, I like to play football, watch matches and whenever possible go hiking. I participate in a weekly game with other students and office colleagues.
+<img src="../images/Inrae.png" scale=0.33 hspace="21"><br clear="left"> <img src="../images/Inria.png" width="950px" height="150" hspace="21"><br clear="left">  <img src="../images/UCA1.jpg" width="950px" height="150"><br clear="left">
