@@ -14,6 +14,6 @@ My thesis aims to gain a better understanding of **differential plant susceptibi
 
 Furthermore, I am also interested in (but don’t get to spend yet enough time on): biological control, biocontrol, theoretical ecology, artificial ecosystems, machine learning applications in agroecology.
 
-At the same time, in addition to my research, I devote part of my time to teaching certain modules in mathematics and computer science; more specifically mathematical analysis, data science.
+At the same time, in addition to my research, I devote part of my time to teaching certain modules in mathematics and computer science; more specifically mathematical analysis to third year bachelor students.
 
 <img src="../images/Inrae.png" width="150" hspace="75"> <img src="../images/Inria.png" width="150" hspace="80"> <img src="../images/UCA1.jpg" width="150" hspace="80"><br clear="left">
