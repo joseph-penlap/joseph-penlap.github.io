@@ -12,7 +12,7 @@ on the use of network analysis in epidemiology and population dynamics.
 ## Attended events
 1. ***International Graduate School on Control (IGSC)**, April 17-21, 2023, TU Eindhoven, The Netherlands*:<br> IGSC Program included independent 
 modules on different topics of networked and embedded control. A module entitled *"Static and dynamic optimisation"* of 21-hours a week taught in present at Eindhoven University of Technology to 2nd Year Master and PhD students from all over the world. 
-More further details, [Attendance certificate]() and [IGSC website](http://www.eeci-igsc.eu/). 
+More further details, [Attendance certificate](../../files/certificates_summer_school_april_2023.pdf) and [IGSC website](http://www.eeci-igsc.eu/). 
 2. ***MOMI 2023 in Smart Environment**, Apr 3-4, 2023, Inria Université Côte d’Azur research center, France*:<br> “The World of Industrial 
 Mathematics” – “Le Monde des Mathématiques Industrielles” (MOMI2023), a two-day workshop on Applied and Industrial Mathematics, 
 focusing this year on Smart Environment. Here more details, [MOMI website](https://phd-seminars-sam.inria.fr/momi2023-le-monde-des-mathematiques-industrielles-smart-environment/).
