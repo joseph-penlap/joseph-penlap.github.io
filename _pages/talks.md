@@ -13,8 +13,6 @@ classes: wide
 |Talk|Some Results in Agro-forestry|Biocore seminar|Île de Porquerolles|Island in Hyères|France|October 3-6, 2022|[slides](../../files/porquerolles_seminar_october_2022.pdf)|Not available|
 |Talk|Modeling the Dynamics of a Forest Environment: Role of the Water Cycle|Master's defense|African Institute For Mathematical Sciences (AIMS)|Limbé|Cameroon|June 15, 2022|[Manuscript](../../files/aims_master_thesis_2022.pdf), [slides](../../files/aims_thesis_defense_june_2022.pdf)|[AIMS](https://aims-cameroon.org/)|
 |Talk|Amalgam Spaces and Applications|Master's defense|University of Dschang (UDs)|Dschang|Cameroon|July 28, 2021|[Manuscript](../../files/uds_master_thesis_2021.pdf), [slides](../../files/uds_thesis_defense_july_2021.pdf)|[UDs](https://www.univ-dschang.org/)|
-|:—|:—:|-:|
-|Alignement à gauche|Alignement centré|Alignement à droite|
 
 <img src="../images/Inrae.png" width="150" hspace="75"> <img src="../images/Inria.png" width="150" hspace="80"> <img src="../images/UCA1.jpg" width="150" hspace="80"><br clear="left">
 
