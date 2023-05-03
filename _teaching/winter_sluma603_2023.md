@@ -1,0 +1,16 @@
+---
+title: "Lecturer - SLUMA603"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/fall-2014-102
+university: "University of Côte d'Azur"
+date: 2023-01-27
+semester: "Winter 2023"
+---
+
+
+I am a assistant lecturer for a section of about 33 students in the mathematics course SLUMA603. This course entitled _Numerical approximation of functions, integrals and 
+differential equations_ is a course gathering theoretical and practical notions of approximation methods of differential equations for bachelor's students 
+at the University Côte d'Azur. My main mission is to consolidate the knowledge of the course through tutorials with the students.
+
+
