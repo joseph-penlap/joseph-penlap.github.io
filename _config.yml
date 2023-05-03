@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Joseph Penlap"
   avatar           : "images/Joseph.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD candidate at Inria Centre of the Côte d'Azur University"
+  bio              : "PhD student at Inria Centre at Université Côte d'Azur"
   location         : "2004 Rte des Lucioles, 06902 Valbonne"
   employer         : "Inria Sophia Antipolis"
   email            : "joseph.penlap@inria.fr"
