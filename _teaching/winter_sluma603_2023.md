@@ -9,8 +9,8 @@ semester: "Winter 2023"
 ---
 
 
-I am a assistant lecturer for a section of about 33 students in the mathematics course SLUMA603. This course entitled _*"Numerical approximation of functions, integrals and 
-differential equations"*_ is a course gathering theoretical and practical notions of approximation methods of differential equations for bachelor's students 
+I am a assistant lecturer for a section of about 33 students in the mathematics course SLUMA603. This course entitled _"Numerical approximation of functions, integrals and 
+differential equations"_ is a course gathering theoretical and practical notions of approximation methods of differential equations for bachelor's students 
 at the University Côte d'Azur. My main mission is to consolidate the knowledge of the course through tutorials with the students.
 
 
