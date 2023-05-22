@@ -285,7 +285,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  code:
+  events:
     output: true
     permalink: /:collection/:path/
 
@@ -323,9 +323,9 @@ defaults:
   # _code
   - scope:
       path: ""
-      type: code
+      type: events
     values:
-      layout: single-code
+      layout: single-event
       author_profile: true
 
 
