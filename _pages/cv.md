@@ -19,7 +19,7 @@ a.uline {text-decoration:underline;}
 **Oct 2022-In Progress**<br>
 Ph.D. in Automatic, Signal and Image Processing<br>
 University of Côte d'Azur, Nice, France<br>
-*Advisor: Frédéric Grognard, Valentina Baldazzi and Suzanne Touzeau*
+*Advisors: Frédéric Grognard, Valentina Baldazzi and Suzanne Touzeau*
 
 **Sep 2021-Jun 2022**<br>
 MSc. in Data Science<br>
