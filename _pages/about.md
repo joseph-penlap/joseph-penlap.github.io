@@ -10,10 +10,9 @@ classes: wide
 ---
 I am since october 2022, a PhD student in Automation, Signal and Image Processing associated in both [Macbes](https://team.inria.fr/macbes/) (Inria) and [ISA/M2P2](https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2) (INRAE) teams working under the supervision of [Frédéric Grognard](http://www-sop.inria.fr/members/Frederic.Grognard), [Valentina Baldazzi](https://www.researchgate.net/profile/Valentina-Baldazzi) and [Suzanne Touzeau](https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2/Team-members/TOUZEAU-Suzanne). My team and I develop theoretical models and experiments to improve existing or infer new plant protection methods using both mathematics and biological tools.
 
-[justify]<img src="../images/background.jpg" width="950px" height="150" vspace="21"><br clear="left">[/justify]
+<img src="../images/background.jpg" width="950px" height="150" vspace="21"><br clear="left">
 
 [justify]My thesis aims at gaining a better understanding of **differential plant susceptibility** to parasitism by **Root-Knot Nematodes** (RKN) from the *Melodoigyne spp.* family. Initially focused on the case of **plant tolerance**, the main idea is to figure out the mechanisms underlying this plant tolerance, with three selected crops (tomato, pepper, cucurbit) as case studies. I exploit methods from dynamic system modelling to build a **mechanistic mathematical model** of plant-RKN interactions that explicitly links plant physiology and pest demography, including both the effect of these pests on the crops and the effect of the plants on the pests.[/justify]
-
 
 I'm also interested in (but don't yet spend enough time on) biocontrol, biological control and fast-slow processes in plant growth.
 
