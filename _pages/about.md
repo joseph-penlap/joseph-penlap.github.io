@@ -14,7 +14,7 @@ classes: wide
 
 <div align="justify">My thesis aims at gaining a better understanding of <b>differential plant susceptibility</b> to parasitism by <b>Root-Knot Nematodes</b> (RKN) from the <i>Melodoigyne spp.</i> family. Initially focused on the case of <b>plant tolerance</b>, the main idea is to figure out the mechanisms underlying this plant tolerance, with three selected crops (tomato, pepper, cucurbit) as case studies. I exploit methods from dynamic system modelling to build a <b>mechanistic mathematical model</b> of plant-RKN interactions that explicitly links plant physiology and pest demography, including both the effect of these pests on the crops and the effect of the plants on the pests.</div>
 
-I'm also interested in (but don't yet spend enough time on) biocontrol, biological control and fast-slow processes in plant growth.
+I'm also interested (but don't yet spend enough time on) in biocontrol, biological control and fast-slow processes in plant growth.
 
 <div align="justify">In addition to research, I devote part of my time to teaching certain mathematics and computer science modules, namely linear algebra and mathematical analysis to undergraduate students.</div>
 
