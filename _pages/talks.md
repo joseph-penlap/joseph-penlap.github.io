@@ -8,7 +8,7 @@ classes: wide
 
 
 |Type|Title|Events|Nature|Location|City|Country|Date|Materials|
-|Talk|Modelling plant-nematode interactions to understand plant tolerance|MacBiosCore Seminar|Annual team meeting|Porquerolles Islands|Islands in Hyères|France|October 16-19, 2023|\textcolor{red}{Soon available}|
+|Talk|Modelling plant-nematode interactions to understand plant tolerance|MacBiosCore Seminar|Annual team meeting|Porquerolles Islands|Island in Hyères|France|October 16-19, 2023|```diff -Soon available ```|
 |Talk|Modelling plant-nematode interactions to understand plant tolerance|Mathematical Population Dynamics, Ecology and Evolution ([MPDEE](https://conferences.cirm-math.fr/2769.html))|Conference|CIRM Luminy|Marseille|France|April 24-28, 2023|[Abstract](../../files/abstract_marseille_april_2023.pdf), [slides](../../files/talk_marseille_april_2023.pdf), [certificate](../../files/certificate_mpdee_conf_april_2023.pdf)|
 |Poster|Ecophysiological modelling of plant-nematode interactions to understand plant tolerance|Dynamical Systems Applied to Biology and Natural Sciences ([DSABNS](https://sites.google.com/bcamath.org/dsabns2023/home?authuser=0))|Conference|Bizkaia Aretoa Center|Bilbao|Spain|February 5-8, 2023|[Abstract](../../files/abstract_dsabns_conf_feb_2023.pdf), [poster](../../files/poster_dsabns_conf_feb_2023.pdf), [certificate](../../files/certificate_dsabns_conf_feb_2023.pdf)|
 |Talk|Some Results in Agro-forestry|Biocore seminar|Annual team meeting|Porquerolles Islands|Island in Hyères|France|October 3-6, 2022|[slides](../../files/porquerolles_seminar_october_2022.pdf)|
