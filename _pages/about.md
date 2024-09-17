@@ -18,4 +18,4 @@ I'm also interested (but don't yet spend enough time on) in biocontrol, biologic
 
 <div align="justify">In addition to research, I devote part of my time to teaching certain mathematics and computer science modules, namely linear algebra and mathematical analysis to undergraduate students.</div>
 
-<img src="../images/Inrae.png" width="150" hspace="75"> <img src="../images/Inria.png" width="150" hspace="75"><br clear="left"> <img src="../images/UCA1.jpg" width="150" hspace="75">  
+<img src="../images/Inrae.png" width="150" hspace="75"> <img src="../images/Inria.png" width="150" hspace="75"><br clear="left"><img src="../images/UCA1.jpg" width="150" hspace="75">  
