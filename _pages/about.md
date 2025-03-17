@@ -26,7 +26,7 @@ classes: wide
   <tr>
     <td><img src="../images/infested_plant_model.png" width="200"></td>
     <td>
-      <table border="1">
+      <table border="0.3">
         <tr>
           <td rowspan="2"><img src="../images/plant_model_eqs.png" width="100"></td>
           <td><img src="../images/infested_roots.png" width="100"></td>
