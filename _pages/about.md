@@ -12,11 +12,11 @@ classes: wide
 <div style="display: flex; justify-content: center;">
 <table border="0.5">
   <tr>
-    <td rowspan="2" style="width: 100px; height: 200px; padding: 0;"><img src="../images/plant_variability.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
-    <td style="width: 100px; height: 100px; padding: 0;"><img src="../images/rkn_scheme.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
+    <td rowspan="2" style="width: 100px; height: 100px; padding: 0;"><img src="../images/plant_variability.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
+    <td style="width: 100px; height: 50px; padding: 0;"><img src="../images/rkn_scheme.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
   </tr>
   <tr>
-    <td style="width: 100px; height: 100px; padding: 0;"><img src="../images/carrot_damaged.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
+    <td style="width: 100px; height: 50px; padding: 0;"><img src="../images/carrot_damaged.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
   </tr>
 </table>
 </div>
