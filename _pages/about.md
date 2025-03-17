@@ -13,9 +13,10 @@ classes: wide
 <img src="../images/background.jpg" width="950" height="130" vspace="21"><br clear="left">
 
 <img src="../infected_plant_model.pdf" width="450" height="130" vspace="21"> <img src="../images/background.jpg" width="450" height="130" vspace="21">
+
 <div style="position: relative; width: max-content;">
-  <img src="background.jpg" style="position: absolute; top: 0; left: 0; opacity: 0.5;">
-  <img src="background.jpg" style="position: relative;">
+  <img src="../images/background.jpg" style="position: absolute; top: 0; left: 0; opacity: 0.5;">
+  <img src="../images/background.jpg" style="position: relative;">
 </div>
 
 <div align="justify">My research aims at gaining a better understanding of <b>differential plant susceptibility</b> to parasitism by <b>Root-Knot Nematodes</b> (RKN) from the <i>Melodoigyne spp.</i> family. This study focuses on the case of tolerant plants, which are plants able to cope with nematode infections with limited yield losses. Understanding the mechanisms of plant tolerance is a key challenge to design, improve and assess control strategies that both maintain the yield and reduce long-term soil infestation. I exploit methods from dynamic system modelling to build a <b>mechanistic mathematical model</b> of plant-RKN interactions that explicitly links plant physiology and pest demography, including both the effect of these pests on the crops and the effect of the plants on the pests.</div>
