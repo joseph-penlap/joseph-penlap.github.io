@@ -6,6 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-If you would like to get into contact, just shoot me an email! 
+## 💌 Contact
+For any questions or collaborations, reach me at: [josephpenlap2000@gmail.com](mailto:josephpenlap2000@gmail.com)
 
-<img src="../images/contact.png"><br clear="left">
