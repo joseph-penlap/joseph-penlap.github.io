@@ -15,6 +15,7 @@ classes: wide
 <img src="../infected_plant_model.pdf" width="450" height="130" vspace="21"> <img src="../images/background.jpg" width="450" height="130" vspace="21">
 
 <div style="position: relative; width: max-content;">
+  <img src="../images/background.jpg" width="950" height="130" vspace="21"><br clear="left">
   <img src="../images/background.jpg" style="position: absolute; top: 0; left: 0; opacity: 0.5;">
   <img src="../images/background.jpg" style="position: relative;">
 </div>
