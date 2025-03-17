@@ -9,7 +9,7 @@ redirect_from:
 classes: wide
 ---
 <div align="justify">I am a third year PhD student in applied mathematics associated in both <a href="https://team.inria.fr/macbes/">Macbes</a> (Inria) and <a href="https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2">ISA/M2P2</a> (INRAE) teams working under the supervision of <a href="http://www-sop.inria.fr/members/Frederic.Grognard">Frédéric Grognard</a>, <a href="https://www.researchgate.net/profile/Valentina-Baldazzi">Valentina Baldazzi</a> and <a href="https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2/Team-members/TOUZEAU-Suzanne">Suzanne Touzeau</a>. My team and I develop theoretical models and experiments to improve existing or infer new plant protection methods using both mathematics and biological tools.</div>
-<div align="justify">My research aims at gaining a better understanding of <b>differential plant susceptibility</b> to parasitism by <b>Root-Knot Nematodes</b> (RKN) from the <i>Melodoigyne spp.</i> family. This study focuses on the case of tolerant plants, which are plants able to cope with nematode infections with limited yield losses.</div>
+<div align="justify">My research aims at gaining a better understanding of <b>differential plant susceptibility</b> to parasitism by <b>Root-Knot Nematodes</b> (RKN) from the <i>Melodoigyne spp.</i> family. This study focuses on the case of <b>tolerant plants</b>, which are plants able to cope with nematode infections with limited yield losses.</div>
 <div style="display: flex; align-items: center;">
 <img src="../images/plant_rkn_scheme.png" width="490" height="400"> <img src="../images/infested_plant_model.png" width="490" height="400"><br clear="left">
 </div>
