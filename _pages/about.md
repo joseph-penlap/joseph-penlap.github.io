@@ -9,7 +9,6 @@ redirect_from:
 classes: wide
 ---
 <div align="justify">I am a third year PhD student in applied mathematics associated in both <a href="https://team.inria.fr/macbes/">Macbes</a> (Inria) and <a href="https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2">ISA/M2P2</a> (INRAE) teams working under the supervision of <a href="http://www-sop.inria.fr/members/Frederic.Grognard">Frédéric Grognard</a>, <a href="https://www.researchgate.net/profile/Valentina-Baldazzi">Valentina Baldazzi</a> and <a href="https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2/Team-members/TOUZEAU-Suzanne">Suzanne Touzeau</a>. My team and I develop theoretical models and experiments to improve existing or infer new plant protection methods using both mathematics and biological tools.</div>
-<div align="justify">
 <table style="border-collapse: collapse; margin-left: auto; margin-right: auto; border: none;">
   <tr>
     <td rowspan="2" style="border: none; padding: 8px;"><img src="../images/plant_variability.png" width="100" height="200"></td>
@@ -19,7 +18,6 @@ classes: wide
     <td style="border: none; padding: 8px;"><img src="../images/carrot_damaged.png" width="100" height="100"></td>
   </tr>
 </table>
-</div>
 <div align="justify">My research aims at gaining a better understanding of <b>differential plant susceptibility</b> to parasitism by <b>Root-Knot Nematodes</b> (RKN) from the <i>Melodoigyne spp.</i> family. This study focuses on the case of tolerant plants, which are plants able to cope with nematode infections with limited yield losses. Understanding the mechanisms of plant tolerance is a key challenge to design, improve and assess control strategies that both maintain the yield and reduce long-term soil infestation. I exploit methods from dynamic system modelling to build a <b>mechanistic mathematical model</b> of plant-RKN interactions that explicitly links plant physiology and pest demography, including both the effect of these pests on the crops and the effect of the plants on the pests.</div>
 <div style="display: flex; justify-content: center;">
 <table border="0.3">
