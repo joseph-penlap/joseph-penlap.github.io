@@ -9,13 +9,9 @@ redirect_from:
 classes: wide
 ---
 <div align="justify">I am a third year PhD student in applied mathematics associated in both <a href="https://team.inria.fr/macbes/">Macbes</a> (Inria) and <a href="https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2">ISA/M2P2</a> (INRAE) teams working under the supervision of <a href="http://www-sop.inria.fr/members/Frederic.Grognard">Frédéric Grognard</a>, <a href="https://www.researchgate.net/profile/Valentina-Baldazzi">Valentina Baldazzi</a> and <a href="https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2/Team-members/TOUZEAU-Suzanne">Suzanne Touzeau</a>. My team and I develop theoretical models and experiments to improve existing or infer new plant protection methods using both mathematics and biological tools.</div>
-
-<img src="../images/background.jpg" width="950" height="130" vspace="21"><br clear="left">
-
-<img src="../infected_plant_model.pdf" width="450" height="130" vspace="21"> <img src="../images/background.jpg" width="450" height="130" vspace="21">
 <table border="1">
   <tr>
-    <td rowspan="2"><img src="../images/plant_variability.png" width="200"></td>
+    <td rowspan="2"><img src="../images/plant_variability.png" width="200" height="130"></td>
     <td><img src="../images/rkn_scheme.png" width="200"></td>
   </tr>
   <tr>
@@ -23,8 +19,16 @@ classes: wide
   </tr>
 </table>
 
-
 <div align="justify">My research aims at gaining a better understanding of <b>differential plant susceptibility</b> to parasitism by <b>Root-Knot Nematodes</b> (RKN) from the <i>Melodoigyne spp.</i> family. This study focuses on the case of tolerant plants, which are plants able to cope with nematode infections with limited yield losses. Understanding the mechanisms of plant tolerance is a key challenge to design, improve and assess control strategies that both maintain the yield and reduce long-term soil infestation. I exploit methods from dynamic system modelling to build a <b>mechanistic mathematical model</b> of plant-RKN interactions that explicitly links plant physiology and pest demography, including both the effect of these pests on the crops and the effect of the plants on the pests.</div>
+<table border="1">
+  <tr>
+    <td rowspan="2"><img src="../images/infected_plant_model.pdf" width="200" height="130"></td>
+    <td><img src="../images/infested_roots.png" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="../images/nematode_eqs.png" width="200"></td>
+  </tr>
+</table>
 
 I'm also interested (but don't yet spend enough time on) in biocontrol, biological control and fast-slow processes in plant growth.
 
