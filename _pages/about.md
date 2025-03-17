@@ -12,11 +12,11 @@ classes: wide
 <div align="justify">
 <table border="0.3" style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td rowspan="2"><img src="../images/plant_variability.png" width="100" height="200"></td>
-    <td><img src="../images/rkn_scheme.png" width="100"></td>
+    <td rowspan="2"><img src="../images/plant_variability.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
+    <td><img src="../images/rkn_scheme.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
   </tr>
   <tr>
-    <td><img src="../images/carrot_damaged.png" width="100"></td>
+    <td><img src="../images/carrot_damaged.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
   </tr>
 </table>
 </div>
