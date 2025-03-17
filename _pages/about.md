@@ -10,13 +10,13 @@ classes: wide
 ---
 <div align="justify">I am a third year PhD student in applied mathematics associated in both <a href="https://team.inria.fr/macbes/">Macbes</a> (Inria) and <a href="https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2">ISA/M2P2</a> (INRAE) teams working under the supervision of <a href="http://www-sop.inria.fr/members/Frederic.Grognard">Frédéric Grognard</a>, <a href="https://www.researchgate.net/profile/Valentina-Baldazzi">Valentina Baldazzi</a> and <a href="https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2/Team-members/TOUZEAU-Suzanne">Suzanne Touzeau</a>. My team and I develop theoretical models and experiments to improve existing or infer new plant protection methods using both mathematics and biological tools.</div>
 <div style="display: flex; justify-content: center;">
-<table border="1">
+<table border="0.5">
   <tr>
     <td rowspan="2" style="width: 100px; height: 200px; padding: 0;"><img src="../images/plant_variability.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
-    <td width="150" height="150"><img src="../images/rkn_scheme.png" width="150" height="150"></td>
+    <td width="150" height="150"><img src="../images/rkn_scheme.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
   </tr>
   <tr>
-    <td width="150" height="150"><img src="../images/carrot_damaged.png" width="150" height="150"></td>
+    <td style="width: 100px; height: 100px; padding: 0;"><img src="../images/carrot_damaged.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
   </tr>
 </table>
 </div>
