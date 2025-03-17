@@ -15,11 +15,11 @@ classes: wide
 <img src="../infected_plant_model.pdf" width="450" height="130" vspace="21"> <img src="../images/background.jpg" width="450" height="130" vspace="21">
 <table border="1">
   <tr>
-    <td rowspan="2"><img src="../images/background.jpg" width="200"></td>
-    <td><img src="../images/background.jpg" width="200"></td>
+    <td rowspan="2"><img src="../images/plant_variability.png" width="200"></td>
+    <td><img src="../images/rkn_scheme.png" width="200"></td>
   </tr>
   <tr>
-    <td><img src="../images/background.jpg" width="200"></td>
+    <td><img src="../images/carrot_damaged.png" width="200"></td>
   </tr>
 </table>
 
