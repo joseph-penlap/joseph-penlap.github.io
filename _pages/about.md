@@ -12,7 +12,7 @@ classes: wide
 <div style="display: flex; justify-content: center;">
 <table border="1">
   <tr>
-    <td rowspan="2" width="150" height="150"><img src="../images/plant_variability.png" width="150" height="150"></td>
+    <td rowspan="2" style="width: 100px; height: 200px; padding: 0;"><img src="../images/plant_variability.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
     <td width="150" height="150"><img src="../images/rkn_scheme.png" width="150" height="150"></td>
   </tr>
   <tr>
