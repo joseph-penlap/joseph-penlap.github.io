@@ -19,6 +19,15 @@ classes: wide
     <td style="width: 50px; height: 50px; padding: 0;"><img src="../images/carrot_damaged.png" style="width: 50%; height: 50%; object-fit: cover;"></td>
   </tr>
 </table>
+<table border="0.5">
+  <tr>
+    <td rowspan="2" style="width: 50px; height: 50px; padding: 0;"><img src="../images/plant_variability.png" style="width: 50%; height: 50%; object-fit: cover;"></td>
+    <td style="width: 50px; height: 50px; padding: 0;"><img src="../images/rkn_scheme.png" style="width: 50%; height: 50%; object-fit: cover;"></td>
+  </tr>
+  <tr>
+    <td style="width: 50px; height: 50px; padding: 0;"><img src="../images/carrot_damaged.png" style="width: 50%; height: 50%; object-fit: cover;"></td>
+  </tr>
+</table>
 </div>
 <div align="justify">My research aims at gaining a better understanding of <b>differential plant susceptibility</b> to parasitism by <b>Root-Knot Nematodes</b> (RKN) from the <i>Melodoigyne spp.</i> family. This study focuses on the case of tolerant plants, which are plants able to cope with nematode infections with limited yield losses. Understanding the mechanisms of plant tolerance is a key challenge to design, improve and assess control strategies that both maintain the yield and reduce long-term soil infestation. I exploit methods from dynamic system modelling to build a <b>mechanistic mathematical model</b> of plant-RKN interactions that explicitly links plant physiology and pest demography, including both the effect of these pests on the crops and the effect of the plants on the pests.</div>
 <table>
