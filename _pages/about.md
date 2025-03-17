@@ -16,7 +16,7 @@ classes: wide
     <td width="150" height="150"><img src="../images/rkn_scheme.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
   </tr>
   <tr>
-    <td style="width: 100px; height: 100px; padding: 0;"><img src="../images/carrot_damaged.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
+    <td><img src="../images/carrot_damaged.png" style="width: 100%; height: 100%; object-fit: cover;"></td>
   </tr>
 </table>
 </div>
