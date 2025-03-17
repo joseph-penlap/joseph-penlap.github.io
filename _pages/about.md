@@ -11,7 +11,7 @@ classes: wide
 <div align="justify">I am a third year PhD student in applied mathematics associated in both <a href="https://team.inria.fr/macbes/">Macbes</a> (Inria) and <a href="https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2">ISA/M2P2</a> (INRAE) teams working under the supervision of <a href="http://www-sop.inria.fr/members/Frederic.Grognard">Frédéric Grognard</a>, <a href="https://www.researchgate.net/profile/Valentina-Baldazzi">Valentina Baldazzi</a> and <a href="https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2/Team-members/TOUZEAU-Suzanne">Suzanne Touzeau</a>. My team and I develop theoretical models and experiments to improve existing or infer new plant protection methods using both mathematics and biological tools.</div>
 <table border="0.3">
   <tr>
-    <td rowspan="2"><img src="../images/plant_variability.png" width="100"></td>
+    <td rowspan="2"><img src="../images/plant_variability.png" width="100" height="200"></td>
     <td><img src="../images/rkn_scheme.png" width="100"></td>
   </tr>
   <tr>
