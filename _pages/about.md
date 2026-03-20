@@ -17,5 +17,5 @@ classes: wide
 <img src="../images/plant_rkn_scheme.png" width="490" height="400"> <img src="../images/infested_plant_model.png" width="490" height="400"><br clear="left">
 </div>
   
-
+<br><br>
 <br clear="left"><img src="../images/Inrae.png" width="150" hspace="75"> <img src="../images/Inria.png" width="150" hspace="75"> <img src="../images/UCA1.jpg" width="150" hspace="75">  
