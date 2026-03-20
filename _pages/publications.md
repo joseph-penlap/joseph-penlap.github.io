@@ -1,12 +1,18 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & Preprints"
 permalink: /publications/
 author_profile: true
 classes: wide
 ---
 
-This page will be updated at the right moment.
+1. **Penlap Tamagoua, J.**, Baldazzi, V., Grognard, F., and Touzeau, S.  
+   *Plant tolerance is explained by resource-based plant–nematode interactions*,  
+   Mathematical Biosciences, 2025 (in revision) ([hal-05394092](https://cnrs.hal.science/hal-05394092v1)).
+
+1. **Penlap Tamagoua, J.**, Touzeau, S., Grognard, F., and Baldazzi, V.  
+   *Unveiling plant tolerance mechanisms through a unified plant–nematode model*,  
+   PLOS Computational Biology, 2025 (working paper).
 
 
 {% include base_path %}
