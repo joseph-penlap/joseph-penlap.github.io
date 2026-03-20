@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joseph Penlap"
+title                    : "Joseph Penlap, PhD"
 title_separator          : "-"
 name                     : "Joseph Penlap"
 description              : "Joseph Penlap's academic homepage"
@@ -101,11 +101,11 @@ analytics:
 # Site Author
 author:
   name             : "Joseph Penlap"
-  avatar           : "images/Joseph.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/Photo_Joseph_Penlap.jpeg" # path of avatar image, e.g. "images/Joseph.jpg"
   bio              : "PhD student at Inria Centre at Université Côte d'Azur"
   location         : "2004 Rte des Lucioles, 06902 Biot"
   employer         : "Inria Sophia Antipolis"
-  email            : "joseph.penlap@inria.fr"
+  email            : "josephpenlap2000@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : #"joseph-penlap"
