@@ -1,11 +1,11 @@
-#---
-#layout: cv-archive
-#title: "CV"
-#permalink: /cv/
-#author_profile: true
-#redirect_from:
-#  - /resume
-#---
+---
+layout: cv-archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
 <style>
 a.uline {text-decoration:underline;}
