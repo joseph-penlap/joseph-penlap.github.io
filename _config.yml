@@ -104,7 +104,7 @@ author:
   avatar           : "images/Photo_Joseph_Penlap.jpeg" # path of avatar image, e.g. "images/Joseph.jpg"
   bio              : "Research Scientist"
   location         : "Nice, France"
-  employer         : "<a href="../files/cv_joseph_penlap_2023.pdf" class="uline">Curriculum vitae</a>" #"Polytech Nice Sophia"
+  employer         : "Polytech Nice Sophia"
   email            : "josephpenlap2000@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
