@@ -102,9 +102,9 @@ analytics:
 author:
   name             : "Joseph Penlap"
   avatar           : "images/Photo_Joseph_Penlap.jpeg" # path of avatar image, e.g. "images/Joseph.jpg"
-  bio              : "PhD student at Inria Centre at Université Côte d'Azur"
-  location         : "2004 Rte des Lucioles, 06902 Biot"
-  employer         : "Inria Sophia Antipolis"
+  bio              : "Research Scientist"
+  location         : "Nice, France"
+  employer         : "Polytech Nice Sophia"
   email            : "josephpenlap2000@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
