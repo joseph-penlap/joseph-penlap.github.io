@@ -18,6 +18,6 @@ classes: wide
 </div>
 
 <br>
-My CV can be found <a href="../files/CV_Joseph.pdf" class="uline">here</a>.
+My CV can be found <a href="../files/CV_Joseph_Penlap_2026.pdf" class="uline">here</a>.
 <br><br>
 <br clear="left"><img src="../images/Inrae.png" width="150" hspace="75"> <img src="../images/Inria.png" width="150" hspace="75"> <img src="../images/UCA1.jpg" width="150" hspace="75">  
