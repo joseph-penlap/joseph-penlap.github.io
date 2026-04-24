@@ -12,7 +12,7 @@ classes: wide
 
 <br><br>
 
-<div align="justify">My <a href="../files/Version_finale_Thèse_Joseph_Penlap.pdf" class="uline">PhD work</a> focused on identifying the mechanisms underlying plant tolerance to parasitism by <b>Root-Knot Nematodes</b> (RKN) from the <i>Melodoigyne spp.</i> family. Tolerance refers to the ability of plants to withstand nematode infections while maintaining limited yield losses.</div>
+<div align="justify">My <a href="https://theses.hal.science/tel-05599819">PhD work</a> focused on identifying the mechanisms underlying plant tolerance to parasitism by <b>Root-Knot Nematodes</b> (RKN) from the <i>Melodoigyne spp.</i> family. Tolerance refers to the ability of plants to withstand nematode infections while maintaining limited yield losses.</div>
 <div style="display: flex; align-items: center;">
 <img src="../images/plant_rkn_scheme.png" width="490" height="400"> <img src="../images/infested_plant_model.png" width="490" height="400"><br clear="left">
 </div>
