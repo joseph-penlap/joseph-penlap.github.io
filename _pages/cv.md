@@ -13,7 +13,7 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="../files/CV_Joseph.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+<a href="../files/CV_Joseph_Penlap_2026.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
 ## Education
 **Oct 2022-Feb 2026**<br>
