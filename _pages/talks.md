@@ -8,6 +8,7 @@ classes: wide
 
 
 |Type|Title|Events|Nature|Location|City|Country|Date|Materials|
+|Talk|Plant tolerance is explained by resource-based plant-nematode interactions|14th European Conference on Mathematical and Theoretical Biology ([ECMTB](https://ecmtb2026.org/))|Conference|University of Graz|Graz|Austria|July 13-17, 2026|[slides](../../files/ECMTB_talk_2026_Joseph_Penlap.pdf), [certificate](../../files/certificate_ecmtb_Joseph_Penlap_2026.pdf)|
 |Talk|Coupling plant physiology and pest demography to understand plant-nematode interactions|Spring Conference: “From Data to Models” ([Populate](https://project.inria.fr/populate2025/conference-1/))|Conference|Inria Center at Université Côte d’Azur|Sophia Antipolis|France|March 10-14, 2025|[slides](../../files/talk_sophia_march_2025.pdf)|
 |Talk|Coupling plant physiology and pest demography to understand plant-nematode interactions|IPN LabMeeting|Seminar|Institut Sophia Agrobiotech (ISA)|Sophia Antipolis|France|February 04, 2025|[slides](../../files/talk_sophia_isa_feb_2025.pdf)|
 |Talk|Coupling plant physiology and pest demography to understand plant-nematode interactions|13th European Conference on Mathematical and Theoretical Biology ([ECMTB](https://ecmtb2024.org/))|Conference|Universidad de Castilla-La Mancha|Toledo|Spain|July 22-26, 2024|[Abstract](../../files/abstract_ecmtb_conf_july_2024.pdf), [slides](../../files/talk_toledo_july_2024.pdf)|
